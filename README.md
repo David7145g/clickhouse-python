@@ -347,4 +347,4 @@ def show_chart():
 show_chart()
 ```
 ### График
-![График](image.jpg "График")
+![График](image.png "График")
